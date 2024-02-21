@@ -20,7 +20,7 @@ The bakery store entity will have the most properties as there will be a bakeryI
 
 # Baker .JSON Object
 
-![carbon (2)](https://github.com/thaovyvle/BakeryDB/assets/122627050/974ad349-ed79-4ad3-9488-32288b7fbf9f)
+<img width="376" alt="Screenshot 2024-02-21 at 4 18 06 PM" src="https://github.com/thaovyvle/BakeryDB/assets/122627050/8da3c873-a128-4840-b2aa-2ed7f9353a25">
 
 ## Routes:
 
@@ -35,7 +35,7 @@ The bakery store entity will have the most properties as there will be a bakeryI
 
 # Dessert .JSON Object
 
-![carbon (3)](https://github.com/thaovyvle/BakeryDB/assets/122627050/6df74fc9-7d0d-4913-a7b2-f14dc7c7a22d)
+<img width="510" alt="Screenshot 2024-02-21 at 4 18 23 PM" src="https://github.com/thaovyvle/BakeryDB/assets/122627050/418c8f23-d9aa-4959-8bf0-ec8684ababf8">
 
 ## Routes:
 
