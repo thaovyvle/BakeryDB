@@ -1,5 +1,5 @@
 # BakeryDB - MongoDB
-A bakery database comprising entities of the store, baker, and dessert entities. Using MongoDB
+A bakery database comprising entities of the store, baker, and dessert. Using MongoDB
 
 The bakery store entity will have the most properties as there will be a bakeryId, name, location, topDesserts, topBaker which will consist of their name, bakerId, specialty. The baker entity properties will be name, bakerId, bakeryId, specialty, yearsOfExperience, and topBaker. Lastly, the dessert entity will have properties of name, dessertId, type, description, rank, quantityInStore, and seasonal. The entity that contains the 1-n relationship is the bakery store entity between the bakery and the baker. All the ID properties are unique strings, with no spaces, and can consist of numbers. All the name properties are strings with no spaces. The location, topDesserts, specialty, type, and description properties are also strings. The yearsOfExperience, rank, and quanityInStore properties are numbers. The topBaker in the bakery entity and the seasonal property in the dessert entity is a boolean. 
 
