@@ -7,7 +7,7 @@ The bakery store entity will have the most properties as there will be a bakeryI
 
 ![carbon (1)](https://github.com/thaovyvle/BakeryDB/assets/122627050/21200436-64e4-4ebb-bd54-92de6b3ffec9)
 
-##Routes:
+## Routes:
 
   • GET /bakeries - Returns an array of bakeries.
 
@@ -22,7 +22,7 @@ The bakery store entity will have the most properties as there will be a bakeryI
 
 ![carbon (2)](https://github.com/thaovyvle/BakeryDB/assets/122627050/974ad349-ed79-4ad3-9488-32288b7fbf9f)
 
-##Routes:
+## Routes:
 
   • GET /bakers - Returns an array of bakers.
 
@@ -37,7 +37,7 @@ The bakery store entity will have the most properties as there will be a bakeryI
 
 ![carbon (3)](https://github.com/thaovyvle/BakeryDB/assets/122627050/6df74fc9-7d0d-4913-a7b2-f14dc7c7a22d)
 
-##Routes:
+## Routes:
 
   • GET /desserts - Returns an array of desserts.
 
