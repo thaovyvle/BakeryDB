@@ -1,0 +1,83 @@
+[
+    {
+        "bakeryId": "b1",
+        "name": "Buttercup Cake Shop",
+        "location": "Orlando, FL",
+        "topDesserts": [
+            {
+                "dessertId": "d2",
+                "name": "Lemon Cake",
+                "rank": 1
+            },
+            {
+                "dessertId": "d5",
+                "name": "Molten Lava Cake",
+                "rank": 2
+            },
+            {
+                "dessertId": "d3",
+                "name": "Strawberry Shortcake",
+                "rank": 3
+            }
+        ],
+        "topBaker": {
+            "bakerId": "e357",
+            "name": "marthastewart",
+            "specialty": "Cake Decorating"
+        }
+    },
+    {
+        "bakeryId": "b2",
+        "name": "Sweet Dough Desserts",
+        "location": "Tampa, FL",
+        "topDesserts": [
+            {
+                "dessertId": "d1",
+                "name": "Tiramisu",
+                "rank": 1
+            },
+            {
+                "dessertId": "d4",
+                "name": "Apple Pie",
+                "rank": 2
+            },
+            {
+                "dessertId": "d6",
+                "name": "Red Velvet Cake",
+                "rank": 3
+            }
+        ],
+        "topBaker": {
+            "bakerId": "e632",
+            "name": "candicebrown",
+            "specialty": "Fondant Sculpter"
+        }
+    },
+    {
+        "bakeryId": "b3",
+        "name": "Mrs. Sugarcakes",
+        "location": "Miami, FL",
+        "topDesserts": [
+            {
+                "dessertId": "d9",
+                "name": "Cookies & Cream Cupcake",
+                "rank": 1
+            },
+            {
+                "dessertId": "d7",
+                "name": "Cheesecake",
+                "rank": 2
+            },
+            {
+                "dessertId": "d8",
+                "name": "Birthday Cake Cookie",
+                "rank": 3
+            }
+        ],
+        "topBaker": {
+            "bakerId": "e497",
+            "name": "duffgoldman",
+            "specialty": "Pastry Chef"
+        }
+    }
+]

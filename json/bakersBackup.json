@@ -1,0 +1,74 @@
+[
+    {
+        "bakerId": "e357",
+        "bakeryId": "b1",
+        "name": "marthastewart",
+        "specialty": "Cake Decorating",
+        "yearsOfExperience": 8,
+        "topBaker": true
+    },
+    {
+        "bakerId": "e264",
+        "bakeryId": "b1",
+        "name": "johnsmith",
+        "specialty": "Pastry Chef",
+        "yearsOfExperience": 3,
+        "topBaker": false
+    },
+    {
+        "bakerId": "e186",
+        "bakeryId": "b1",
+        "name": "graciejane",
+        "specialty": "Baker",
+        "yearsOfExperience": 5,
+        "topBaker": false
+    },
+    {
+        "bakerId": "e632",
+        "bakeryId": "b2",
+        "name": "candicebrown",
+        "specialty": "Fondant Sculpter",
+        "yearsOfExperience": 10,
+        "topBaker": true
+    },
+    {
+        "bakerId": "e316",
+        "bakeryId": "b2",
+        "name": "tiffanyblue",
+        "specialty": "Baker",
+        "yearsOfExperience": 6,
+        "topBaker": false
+    },
+    {
+        "bakerId": "e813",
+        "bakeryId": "b2",
+        "name": "samrose",
+        "specialty": "Cake Decorating",
+        "yearsOfExperience": 4,
+        "topBaker": false
+    },
+    {
+        "bakerId": "e497",
+        "bakeryId": "b3",
+        "name": "duffgoldman",
+        "specialty": "Pastry Chef",
+        "yearsOfExperience": 8,
+        "topBaker": true
+    },
+    {
+        "bakerId": "e241",
+        "bakeryId": "b3",
+        "name": "jackmiller",
+        "specialty": "Baker",
+        "yearsOfExperience": 2,
+        "topBaker": false
+    },
+    {
+        "bakerId": "e931",
+        "bakeryId": "b3",
+        "name": "staciegrey",
+        "specialty": "Fondant Sculpter",
+        "yearsOfExperience": 6,
+        "topBaker": false
+    }
+]

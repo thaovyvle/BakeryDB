@@ -1,0 +1,92 @@
+[
+    {
+        "dessertId": "d1",
+        "bakeryId": "b2",
+        "name": "Tiramisu",
+        "type": "dessert",
+        "description": "A sweet creamy dessert, also known as a Tuscan trifle. This dessert consists of ladyfingers that are sprinkled with coffee or espresso and then covered with a mixture consisting of mascarpone cheese.",
+        "rank": 1,
+        "quantityInStore": 10,
+        "seasonal": false
+    },
+    {
+        "dessertId": "d2",
+        "bakeryId": "b1",
+        "name": "Lemon Cake",
+        "type": "cake",
+        "description": "Two layers of moist lemon-flavored cake coated in a rich lemon-flavored cream cheese frosting.",
+        "rank": 1,
+        "quantityInStore": 6,
+        "seasonal": false
+    },
+    {
+        "dessertId": "d3",
+        "bakeryId": "b1",
+        "name": "Strawberry Shortcake",
+        "type": "cake",
+        "description": "A tender vanilla cake filled with layers of whipped cream frosting and juicy strawberries.",
+        "rank": 3,
+        "quantityInStore": 4,
+        "seasonal": true
+    },
+    {
+        "dessertId": "d4",
+        "bakeryId": "b2",
+        "name": "Apple Pie",
+        "type": "pie",
+        "description": "Juicy apple slices are coated in sugar and spices and then baked to perfection inside a flaky homemade pie crust.",
+        "rank": 2,
+        "quantityInStore": 0,
+        "seasonal": true
+    },
+    {
+        "dessertId": "d5",
+        "bakeryId": "b1",
+        "name": "Molten Lava Cake",
+        "type": "cake",
+        "description": "A warm, gooey cake made with a rich chocolate center that flows out as you cut into it. Served with a scoop of ice cream or a dusting of powdered sugar for an extra touch of indulgence.",
+        "rank": 2,
+        "quantityInStore": 5,
+        "seasonal": false
+    },
+    {
+        "dessertId": "d6",
+        "bakeryId": "b2",
+        "name": "Red Velvet Cake",
+        "type": "cake",
+        "description": "Red velvet cake is a delicious cake often covered with sweet cream cheese frosting. The name “Red Velvet” is a reflection of its characteristic deep red or burgundy color and its smooth texture.",
+        "rank": 3,
+        "quantityInStore": 8,
+        "seasonal": false
+    },
+    {
+        "dessertId": "d7",
+        "bakeryId": "b3",
+        "name": "Cheesecake",
+        "type": "dessert",
+        "description": "A dessert consisting of a thick, creamy filling of cheese, eggs, and sugar over a thinner crust and topped with sweet or sometimes salty items.",
+        "rank": 2,
+        "quantityInStore": 3,
+        "seasonal": false
+    },
+    {
+        "dessertId": "d8",
+        "bakeryId": "b3",
+        "name": "Birthday Cake Cookie",
+        "type": "cookie",
+        "description": "A birthday cake flavor cookie that is chewy, buttery, and filled with white chocolate chips and sprinkles.",
+        "rank": 3,
+        "quantityInStore": 12,
+        "seasonal": false
+    },
+    {
+        "dessertId": "d9",
+        "bakeryId": "b3",
+        "name": "Cookies & Cream Cupcake",
+        "type": "cupcake",
+        "description": "Moist chocolate cupcakes swirled with cookies and cream buttercream frosting, drizzled with chocolate ganache, and crowned with mini Oreo cookies!",
+        "rank": 1,
+        "quantityInStore": 8,
+        "seasonal": true
+    }
+]
